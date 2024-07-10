@@ -1,0 +1,7 @@
+Python là một ngôn ngữ thông dịch.
+Vì :
++ Thực thi từng dòng một: Python thực thi mã từng dòng một, giúp dễ dàng phát hiện và sửa lỗi trong quá trình viết mã.
++ Tính linh hoạt: Việc sử dụng trình thông dịch cho phép Python chạy trên nhiều nền tảng mà không cần biên dịch lại mã nguồn .
++ Phát triển nhanh chóng: Trình thông dịch giúp giảm thời gian phát triển, vì không cần phải chờ đợi quá trình biên dịch hoàn tất.
++Tương tác trực tiếp: Python cung cấp một môi trường tương tác (REPL) cho phép lập trình viên viết và thực thi mã trực tiếp, giúp 
+thử nghiệm và gỡ lỗi nhanh chóng.
