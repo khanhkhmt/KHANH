@@ -119,3 +119,11 @@ for i in range (1 , N +1) :
         if (KT(i) == j and KT (j) == i) :
             l.append ((i,j))
 print (l)'''
+n = int(input('nhập n : '))
+p_triangle = [] 
+for i in range (n) :
+    h = [1] * (i+1) 
+    for j in range (1 , i) :
+        h[j] = p_triangle[i-1][j-1] + p_triangle [i-1][j]
+    p_triangle.append(h)
+print (p_triangle )
