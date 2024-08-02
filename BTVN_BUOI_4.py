@@ -63,7 +63,7 @@ for i in range (n) :
         s_new.add(s[i])
 print (s_new) '''
 
-# bài 4 
+# bài 5
 
 l = []
 
