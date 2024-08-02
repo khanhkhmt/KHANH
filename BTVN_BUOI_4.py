@@ -1,4 +1,4 @@
-'''l =['1' , '2' , '3' , '4' , '5' , '6' , '7' , '8' , '9' , '0']
+l =['1' , '2' , '3' , '4' , '5' , '6' , '7' , '8' , '9' , '0']
 l_new = [int(l[i]) for i in range (len(l))]
 sum = 0 
 for i in l_new :
@@ -61,7 +61,7 @@ for i in range (n) :
     if sum < a :
         sum += s[i] 
         s_new.add(s[i])
-print (s_new) '''
+print (s_new) 
 
 # bài 5
 
